@@ -82,7 +82,7 @@ namespace transport
 		int deck;
 	};
 
-	class Flying_Ñar : public Car, public Plane {
+	class Flying_Ã‘ar : public Car, public Plane {
 	private:
 		std::string start;
 	public:
