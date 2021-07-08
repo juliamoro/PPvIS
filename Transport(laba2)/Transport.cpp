@@ -136,12 +136,12 @@ int transport::Ship::get_deck()
 	return deck;
 }
 
-void transport::Flying_Ñar::set_start(std::string start)
+void transport::Flying_Ã‘ar::set_start(std::string start)
 {
-	Flying_Ñar::start = start;
+	Flying_Ã‘ar::start = start;
 }
 
-std::string transport::Flying_Ñar::get_start()
+std::string transport::Flying_Ã‘ar::get_start()
 {
 	return std::string(start);
 }
